@@ -1,24 +1,22 @@
-# GC01
-
 ## My Social Media App
 
-My Social Media App adalah sebuah aplikasi client(mobile)-server. Challenge ini juga merupakan salah satu aplikasi mobile pertama dan terakhir kamu, jadi kerjakan dengan baik sebagai bekal portofolio kamu. Pada challenge ini, kamu diminta untuk membuat aplikasi client(mobile)-server dengan detail sebagai berikut:
+My Social Media App is a client(mobile)-server application that uses LinkedIn as reference.
 
-### Struktur Folder
-- [x] server: untuk menyimpan aplikasi server GraphQL kamu 
-- [X] app: untuk menyimpan aplikasi mobile React Native kamu
+### Folder Structure
+- [x] server: to store GraphQL server applications
+- [X] app: to save React Native mobile applications
 
 
-### Fitur
-- [x] Fitur Register
-- [x] Fitur Login
-- [x] FItur Add Post
-- [x] Fitur Show Post (berdasarkan yang paling baru)
-- [x] Fitur Comment Post (Embedded Document)
-- [x] Fitur search user berdasarkan nama atau username
-- [x] Fitur follow
+### Feature
+- [x] Feature Register
+- [x] Feature Login
+- [x] Feature Add Post
+- [x] Feature Show Post (berdasarkan yang paling baru)
+- [x] Feature Comment Post (Embedded Document)
+- [x] Feature search user berdasarkan nama atau username
+- [x] Feature follow
 - [x] Menampilkan Followers dan Following dari setiap user (Reference with $lookup)
-- [x] Fitur Like Post
+- [x] Feature Like Post
 - [x] Menampilkan total like dari setiap post
 
 ### Deployment Link
